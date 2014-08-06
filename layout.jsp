@@ -42,6 +42,7 @@
   <!--/head end-->
 
   <div id="main">
+   <div id="top_img"><img src="img/top_img.jpg" alt="私たちは、自然に優しい生活を応援します。" /></div>
     ${param.content}
     <!--side start-->
    <div id="side">
@@ -102,7 +103,7 @@ Template by <a href="http://www.s-hoshino.com/" target="_blank">s-hoshino.com</a
         <li><a href="qa.html">カキの疑問</a></li>
       </ul>
       <ul id="f_ul02">
-        <li><a href="access.html">アクセスマップ</a></li>
+        <li><a href="${ f:url('/access') }">アクセスマップ</a></li>
         <li><a href="link.html">リンク集</a></li>
         <li><a href="contact.html">お問い合わせ・ご相談</a></li>
         <li><a href="recruit.html">採用情報</a></li>

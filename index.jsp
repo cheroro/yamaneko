@@ -14,9 +14,9 @@
 http://www.megapx.com/info.htmlのフォームよりお問い合わせください。
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 -->
-<title>とれたての牡蠣をお届け！やまね[ホーム]</title>
+<title>とれたての牡蠣をお届け！山根牡蠣オンラインショップ[ホーム]</title>
 <meta name="Keywords" content="牡蠣,ショップ,店舗,キーワード01,キーワード02,キーワード03" />
-<meta name="Description" content="牡蠣販売店やまね" />
+<meta name="Description" content="山根牡蠣オンラインショップ" />
 <link href="style.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="scripts/rov.js"></script>
 <script type="text/javascript" src="scripts/to_top.js"></script>
@@ -24,12 +24,11 @@ http://www.megapx.com/info.htmlのフォームよりお問い合わせくださ�
 <body onload="rollovers( '_df' , '_ov' );">
 <!--base start-->
 <c:import url="layout.jsp">
-  <c:param name="title" value="Index"/>
+  <c:param name="title" value="牡蠣"/>
   <c:param name="content">
-    <div id="top_img"><img src="img/top_img.jpg" alt="私たちは、自然に優しい生活を応援します。" /></div>
     <!--content start-->
     <div id="content">
-      <h2>Sample Shop へようこそ<span>Welcome to Sample Shop</span></h2>
+      <h2>山根牡蠣オンラインショップ へようこそ<span>Welcome to YamaneOystarOnlineShop</span></h2>
       <h3>コンセプト<span>Concept</span></h3>
       <div class="box_out">
         <div class="box_in">
