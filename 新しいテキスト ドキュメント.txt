@@ -3,3 +3,6 @@ https://developers.google.com/appengine/downloads?hl=ja
 
 slim3:
 http://slim3.googlecode.com/svn/updates/
+
+-vm
+C:\Users\yama\Desktop\pleiades\java\jdk1.7.0_67\bin\javaw.exe
