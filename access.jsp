@@ -26,7 +26,7 @@ http://www.megapx.com/info.htmlのフォームよりお問い合わせくださ�
 <c:import url="layout.jsp">
   <c:param name="title" value="牡蠣"/>
   <c:param name="content">
-    <div id="pankuzu"><a href="index.html">トップページ</a>　＞　<strong>アクセスマップ</strong></div>
+    <div id="pankuzu"><a href="/">トップページ</a>　＞　<strong>アクセスマップ</strong></div>
     <!--content start-->
     <div id="content">
       <h2>アクセスマップ<span>Access map</span></h2>

@@ -24,17 +24,17 @@
       <ul>
         <li><strong>トップページ<br />
           <span>HOME</span></strong></li>
-        <li><a href="menu.html">商品一覧<br />
+        <li><a href="${ f:url('/menu') }">商品一覧<br />
           <span>Menu/Price</span></a></li>
-        <li><a href="flow.html">到着までの流れ<br />
+        <li><a href="${ f:url('/flow') }">到着までの流れ<br />
           <span>Flow</span></a></li>
-        <li><a href="works.html">作業風景<br />
+        <li><a href="${ f:url('/works') }">作業風景<br />
           <span>Gallery</span></a></li>
-        <li><a href="staff.html">スタッフ紹介<br />
+        <li><a href="${ f:url('/staff') }">スタッフ紹介<br />
           <span>Staff</span></a></li>
-        <li><a href="shop.html">店舗のご案内<br />
+        <li><a href="${ f:url('/shop') }">店舗案内<br />
           <span>Information</span></a></li>
-        <li><a href="qa.html">カキの疑問<br />
+        <li><a href="${ f:url('/qa') }">カキの疑問<br />
           <span>QA</span></a></li>
       </ul>
     </div>
@@ -53,23 +53,23 @@
      <div class="side_box">
        <div class="side_inbox">
          <ul>
-           <li><a href="index.html">トップページ<br />
+           <li><a href="${ f:url('/index') }">トップページ<br />
              <span>HOME</span></a></li>
-           <li><a href="menu.html">商品一覧<br />
+           <li><a href="${ f:url('/menu') }">商品一覧<br />
              <span>Menu/Price</span></a></li>
-           <li><a href="flow.html">到着までの流れ<br />
+           <li><a href="${ f:url('/flow') }">到着までの流れ<br />
              <span>Flow</span></a></li>
-           <li><a href="works.html">作業風景<br />
+           <li><a href="${ f:url('/works') }">作業風景<br />
              <span>Gallery</span></a></li>
-           <li><a href="staff.html">スタッフ紹介<br />
+           <li><a href="${ f:url('/staff') }">スタッフ紹介<br />
              <span>Staff</span></a></li>
-           <li><a href="shop.html">店舗のご案内<br />
+           <li><a href="${ f:url('/shop') }">店舗案内<br />
              <span>Information</span></a></li>
-           <li><a href="qa.html">カキの疑問<br />
+           <li><a href="${ f:url('/qa') }">カキの疑問<br />
              <span>QA</span></a></li>
-           <li><a href="access.html">アクセスマップ<br />
+           <li><a href="${ f:url('/access') }">アクセスマップ<br />
              <span>Access</span></a></li>
-           <li><a href="link.html">リンク集<br />
+           <li><a href="${ f:url('/link') }">リンク集<br />
              <span>Link</span></a></li>
          </ul>
        </div>
@@ -94,19 +94,19 @@ Template by <a href="http://www.s-hoshino.com/" target="_blank">s-hoshino.com</a
   <!--foot start-->
     <div id="foot">
       <ul id="f_ul01">
-        <li><a href="index.html">トップページ</a></li>
-        <li><a href="menu.html">商品一覧</a></li>
-        <li><a href="flow.html">到着までの流れ</a></li>
-        <li><a href="works.html">作業風景</a></li>
-        <li><a href="staff.html">スタッフ紹介</a></li>
-        <li><a href="shop.html">店舗案内</a></li>
-        <li><a href="qa.html">カキの疑問</a></li>
+        <li><a href="${ f:url('/index') }">トップページ</a></li>
+        <li><a href="${ f:url('/menu') }">商品一覧</a></li>
+        <li><a href="${ f:url('/flow') }">到着までの流れ</a></li>
+        <li><a href="${ f:url('/works') }">作業風景</a></li>
+        <li><a href="${ f:url('/staff') }">スタッフ紹介</a></li>
+        <li><a href="${ f:url('/shop') }">店舗案内</a></li>
+        <li><a href="${ f:url('/qa') }">カキの疑問</a></li>
       </ul>
       <ul id="f_ul02">
         <li><a href="${ f:url('/access') }">アクセスマップ</a></li>
-        <li><a href="link.html">リンク集</a></li>
-        <li><a href="contact.html">お問い合わせ・ご相談</a></li>
-        <li><a href="recruit.html">採用情報</a></li>
+        <li><a href="${ f:url('/link') }">リンク集</a></li>
+        <li><a href="${ f:url('/contact') }">お問い合わせ・ご相談</a></li>
+        <li><a href="${ f:url('/recruit') }">採用情報</a></li>
       </ul>
       <div id="f_logo">山根牡蠣オンラインショップ</div>
       <p>〒xxx-xxxx 岡山県瀬戸内市邑久町<br />
