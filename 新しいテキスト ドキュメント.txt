@@ -6,3 +6,14 @@ http://slim3.googlecode.com/svn/updates/
 
 -vm
 C:\Users\yama\Desktop\pleiades\java\jdk1.7.0_67\bin\javaw.exe
+
+
+ロイヤリティフリー:事前に取り決められた使用許諾範囲内であれば、知的所有権に関する追加の使用料（ロイヤルティー）の発生が免除されている著作物や技術のこと。
+「足成」「ぱくたそ」「写真AC」
+クリエイティブ・コモンズ（ＣＣ）
+【表示】=「作品のクレジット（作品タイトル・作者名・URLの３つ）を表示して使用が条件」
+【非営利】=「営利目的での利用を禁止」
+【改変禁止】=「元の作品を改変を禁止。一部を切り取ったり、テキストを挿入するのもNG」
+【継承】=「元の作品と同じ組み合わせのCCライセンスでの公開が必須。画像を保存する場合などに注意」
+Photo Pin : Free Photos for Bloggers via Creative Commons
+Compfight / A Flickr Search Tool

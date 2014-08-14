@@ -26,7 +26,7 @@
           <span>HOME</span></strong></li>
         <li><a href="${ f:url('/menu') }">商品一覧<br />
           <span>Menu/Price</span></a></li>
-        <li><a href="${ f:url('/flow') }">到着までの流れ<br />
+        <li><a href="${ f:url('/flow') }">ご購入から到着まで<br />
           <span>Flow</span></a></li>
         <li><a href="${ f:url('/works') }">作業風景<br />
           <span>Gallery</span></a></li>
@@ -34,7 +34,7 @@
           <span>Staff</span></a></li>
         <li><a href="${ f:url('/shop') }">店舗案内<br />
           <span>Information</span></a></li>
-        <li><a href="${ f:url('/qa') }">カキの疑問<br />
+        <li><a href="${ f:url('/qa') }">みんなの疑問<br />
           <span>QA</span></a></li>
       </ul>
     </div>
@@ -57,7 +57,7 @@
              <span>HOME</span></a></li>
            <li><a href="${ f:url('/menu') }">商品一覧<br />
              <span>Menu/Price</span></a></li>
-           <li><a href="${ f:url('/flow') }">到着までの流れ<br />
+           <li><a href="${ f:url('/flow') }">ご購入から到着まで<br />
              <span>Flow</span></a></li>
            <li><a href="${ f:url('/works') }">作業風景<br />
              <span>Gallery</span></a></li>
@@ -65,7 +65,7 @@
              <span>Staff</span></a></li>
            <li><a href="${ f:url('/shop') }">店舗案内<br />
              <span>Information</span></a></li>
-           <li><a href="${ f:url('/qa') }">カキの疑問<br />
+           <li><a href="${ f:url('/qa') }">みんなの疑問<br />
              <span>QA</span></a></li>
            <li><a href="${ f:url('/access') }">アクセスマップ<br />
              <span>Access</span></a></li>
@@ -96,11 +96,11 @@ Template by <a href="http://www.s-hoshino.com/" target="_blank">s-hoshino.com</a
       <ul id="f_ul01">
         <li><a href="${ f:url('/index') }">トップページ</a></li>
         <li><a href="${ f:url('/menu') }">商品一覧</a></li>
-        <li><a href="${ f:url('/flow') }">到着までの流れ</a></li>
+        <li><a href="${ f:url('/flow') }">ご購入から到着まで</a></li>
         <li><a href="${ f:url('/works') }">作業風景</a></li>
         <li><a href="${ f:url('/staff') }">スタッフ紹介</a></li>
         <li><a href="${ f:url('/shop') }">店舗案内</a></li>
-        <li><a href="${ f:url('/qa') }">カキの疑問</a></li>
+        <li><a href="${ f:url('/qa') }">みんなの疑問</a></li>
       </ul>
       <ul id="f_ul02">
         <li><a href="${ f:url('/access') }">アクセスマップ</a></li>
@@ -114,7 +114,7 @@ Template by <a href="http://www.s-hoshino.com/" target="_blank">s-hoshino.com</a
     </div>
   <!--/foot end-->
   <address>
-  Copyright(C) 山猫 All Rights Reserved.
+  Copyright(C) 2014-2014 山猫 All Rights Reserved.
   </address>
   </div>
 </body>
