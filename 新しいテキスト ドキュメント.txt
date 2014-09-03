@@ -17,3 +17,36 @@ C:\Users\yama\Desktop\pleiades\java\jdk1.7.0_67\bin\javaw.exe
 【継承】=「元の作品と同じ組み合わせのCCライセンスでの公開が必須。画像を保存する場合などに注意」
 Photo Pin : Free Photos for Bloggers via Creative Commons
 Compfight / A Flickr Search Tool
+
+--controller--
+if (request.getParameter("pass").equals("password")) {
+            return forward("menu.jsp");
+        } else {
+            return forward("kanri.jsp");
+        }
+
+--kanri--
+<h3>分析<span>Concept</span></h3>
+      <div class="box_out">
+        <div class="box_in">
+          
+        </div>
+        <div class="box_in">
+          <form method="post" action="${ f:url('/menu') }">
+            <table>
+			<tr><td>パスワード:</td>
+			<td><input type="text" name="pass" id="pass"/></td>
+			</tr>
+			<tr>
+			<td></td>
+			<td><input type="submit"  value="裏へ" /></td>
+			</tr>
+			</table>
+		  </form>
+        </div>
+      </div>
+
+http://www.mel-con.co.jp/opinion/op73.html
+成長性分析、収益性分析、採算性分析、安全性分析、生産性分析
+
+「粗利率（売上総利益÷売上高）」「営業利益率（営業利益÷売上高）」の2つは必ずチェック
